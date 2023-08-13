@@ -1,0 +1,7 @@
+{
+	"name": "Public definitions of Onte APIs",
+	"image": "mcr.microsoft.com/devcontainers/base:bookworm",
+	"features": {
+		"ghcr.io/devcontainers-contrib/features/protoc:1": {}
+	}
+}
